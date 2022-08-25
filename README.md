@@ -1,6 +1,6 @@
 # random-cards-JavaFx-
 
-A desktop-based application, made using JavaFx, displays three random playing cards simultaneously on each run. Here the classes used are ArrayList, Random and FileInputStream from their respective packages.
+A desktop-based application, made using JavaFx, displays three random playing cards simultaneously on every run. Here the classes used are ArrayList, Random and FileInputStream from their respective packages.
 
 > On first run: 
 
